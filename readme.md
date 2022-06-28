@@ -1,4 +1,2 @@
-   Olá esse projeto ensina você a usar o git
+  Projeto utilizando git na prática
   
-  
-  --Isso é uma alteração
